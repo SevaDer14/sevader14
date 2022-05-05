@@ -20,3 +20,4 @@
 ![Prisma](https://img.shields.io/badge/-prisma-0D354A?style=for-the-badge&logo=prisma)
 ![Mui](https://img.shields.io/badge/-material_ui-eee?style=for-the-badge&logo=mui)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux)
+![Other](https://img.shields.io/badge/and%20many%20other...-22272e?style=for-the-badge)
