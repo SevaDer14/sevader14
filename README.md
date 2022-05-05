@@ -3,6 +3,7 @@
 
 #### Languages
 ![TypeScript](https://img.shields.io/badge/TypeScript-017ACD?style=for-the-badge&logo=typescript&logoColor=white)
+![Solidity](https://img.shields.io/badge/solidity-5c6ac1?style=for-the-badge&logo=solidity&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-F7C63F?style=for-the-badge&logo=python&logoColor=black)
 ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=for-the-badge&logo=ruby)
 #### Frameworks
